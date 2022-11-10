@@ -1,4 +1,4 @@
-# Driver distraction test for a driving simulator
+# Driver distraction tests for driving simulator
 
 The test suite contains 12 tests, one in each folder.
 
